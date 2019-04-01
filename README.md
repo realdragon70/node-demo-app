@@ -1,4 +1,5 @@
 # node demo app
+This is a Hello World example.
 
 ## Docker
 ```
